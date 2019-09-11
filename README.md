@@ -3,7 +3,7 @@
 Custom Msg User Cpp for Test Compiler G++, Make, Cmake, Clang and others.
 
 ## Basic compile
-> **g++**
+> **g++**, [gcc](https://gcc.gnu.org/) site.
 Run:
 ```cpp
 g++ main.cpp hello-world.cpp -o msg.o
@@ -23,7 +23,7 @@ make all clean
 ```
 
 ## Advanced compile
-> **CMake**
+> **CMake** , install [cmake](https://cmake.org/)
 Run:
 ```cpp
 mkdir build && cd build
